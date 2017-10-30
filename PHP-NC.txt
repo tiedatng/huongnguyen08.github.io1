@@ -1,0 +1,23 @@
+1. Predefined Variables (biến xác định trước)
+2. Regular Expression 
+3. Form and Validate Data input
+4. Error & Exception Handling (try - throw - catch)
+5. PDO
+6. OOP
+	- class, attribute, method
+	- Access Control (public, protected, privated)
+	- Tính kế thừa trong OOP
+	- Hàm khởi tạo, hàm hủy
+	- Thuộc tính và phương thức tĩnh  - static
+	- Abstract Class và Object Interface
+	- Overloading
+	- Namespace
+	- Autoloading Class
+7. Design Patterns
+	- Factory Pattern
+	- Strategy Pattern
+	- Model-View-Controller
+	- Front controller
+8. Framewoork
+
+
