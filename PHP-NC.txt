@@ -2,8 +2,7 @@
 2. Regular Expression 
 3. Form and Validate Data input
 4. Error & Exception Handling (try - throw - catch)
-5. PDO
-6. OOP
+5. OOP
 	- class, attribute, method
 	- Access Control (public, protected, privated)
 	- Tính kế thừa trong OOP
@@ -13,11 +12,14 @@
 	- Overloading
 	- Namespace
 	- Autoloading Class
-7. Design Patterns
+6. Design Patterns
 	- Factory Pattern
 	- Strategy Pattern
 	- Model-View-Controller
 	- Front controller
-8. Framewoork
+7. PDO
+8. MySQL
+9. Htaccess
+10. Framework
 
 
