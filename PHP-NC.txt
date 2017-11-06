@@ -1,25 +1,58 @@
-1. Predefined Variables (biến xác định trước)
-2. Regular Expression 
-3. Form and Validate Data input
-4. Error & Exception Handling (try - throw - catch)
-5. OOP
-	- class, attribute, method
-	- Access Control (public, protected, privated)
-	- Tính kế thừa trong OOP
-	- Hàm khởi tạo, hàm hủy
-	- Thuộc tính và phương thức tĩnh  - static
-	- Abstract Class và Object Interface
-	- Overloading
-	- Namespace
-	- Autoloading Class
-6. Design Patterns
-	- Factory Pattern
-	- Strategy Pattern
-	- Model-View-Controller
-	- Front controller
-7. PDO
-8. MySQL
-9. Htaccess
-10. Framework
-
+Phần A: Lập trình PHP nâng cao
+	Chương 1. Predefined Variables (biến xác định trước)
+	Chương 2. Regular Expression 
+	Chương 3. Form and Validate Data input
+	Chương 4. Error & Exception Handling (try - throw - catch)
+	Chương 5. OOP
+		- class, attribute, method
+		- Access Control (public, protected, privated)
+		- Tính kế thừa trong OOP
+		- Hàm khởi tạo, hàm hủy
+		- Thuộc tính và phương thức tĩnh  - static
+		- Abstract Class và Object Interface
+		- Overloading
+		- Namespace
+		- Autoloading Class
+	Chương 6. Design Patterns
+		- Factory Pattern
+		- Strategy Pattern
+		- Model-View-Controller
+		- Front controller
+	Chương 7. PDO và MySQL
+	Chương 8. Htaccess
+Phần B: Lập trình Zend Framework
+	Chương 1: Mô hình MVC trong ZF
+		- Router
+		- Controller
+		- Model
+		- View
+	Chương 2: Module Config
+	Chương 3: Form Master
+		- Zend Form Element
+		- Form view helper
+		- Zend Validate
+		- Zend ValidatorChain
+		- Tự xây dựng Class Validate
+		- zend-filter
+		- InputFilters And Validators
+		- zend-file
+		- zend-captcha
+	Chương 4: Database Management
+		- Zend\Db\Adapter
+		- Zend\Db\Sql
+		- Zend\Db\Sql\Ddl
+		- TableGateway
+		- Entity
+		- zend-crypt
+		- zend-servicemanager
+		- Database Management with Doctrine ORM
+		- Zend\Pagination
+	Chương 5: Zend Authentication
+		- authenticate
+		- AuthenticationService
+		- Zend\Authentication\Result
+		- zend-mail
+		- zend-session
+		- Access Filter
+	Chương 6: Xây dựng ứng dụng quản lý nhà hàng
 
